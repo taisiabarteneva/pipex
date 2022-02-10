@@ -2,7 +2,7 @@
 #### 42 school project
 
 The goal of the project is to implement a pipe functionality, using dup2(), pipe(), execve() and fork(). 
-## What did I learn
+## What have I learned
 - Redirect operators in bash
 - The concept of a pipe
 - Signals
